@@ -39,4 +39,4 @@ Consistent model distribution with top-performing vehicles easily visible
 
 <h2>🖼️ Screenshot</h2>
 
-(Make sure to upload this image to a screenshots/ folder in your repo)![dashboard preview](https://github.com/sudarshan1405/car_data_dashborad/blob/main/Screenshot%202025-06-14%20225250.png)
+![dashboard preview](https://github.com/sudarshan1405/car_data_dashborad/blob/main/Screenshot%202025-06-14%20225250.png)
